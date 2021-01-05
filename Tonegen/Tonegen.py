@@ -141,8 +141,6 @@ stop_btn.grid(row=1, column=2)
 grow_btn.grid(row=0, column=2)
 
 
-# Instead of root.mainloop() because we want to do some tasks here
-# root.mainloop()
 while True:
     hz_str.set(str(pitch_str.value))
     root.update_idletasks()
