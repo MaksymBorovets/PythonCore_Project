@@ -7,7 +7,7 @@ from tkinter import *
 from tkinter import font
 
 root = tkinter.Tk()
-root.title("Sine Tone Generator")
+root.title("Sinewave Generator")
 root.geometry("560x200")
 
 ####### Our wave settings, before the classwork ######
